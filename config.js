@@ -4,7 +4,7 @@ const chalk = require('chalk')
 //contact details
 global.ownernumber = ['2348180146181']
 global.ownername = "Raphael"//owner name
-global.ytname = "YT: Kish-MD"
+global.ytname = "YT: Raphael-MD"
 global.socialm = "GitHub: Isaiah-ilom"
 global.location = "Nigeria"
 
@@ -38,7 +38,7 @@ global.autoread_status = true //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '*here you go!* \n\n*🎀 Raph Bot 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/Brashokish/Kish-MD\n',
+    done: '*here you go!* \n\n*🎀 Raph Bot 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/Raphael-scholar/Raphaels-MD\n',
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
