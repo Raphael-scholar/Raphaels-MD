@@ -1,10 +1,10 @@
 # Raphael-MD 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://tinyurl.com/2arwqhh3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://tinyurl.com/2arwqhh3" alt="Typing SVG" width="500" height="500" /></a>
   
 <p align="center">  
   <a href="https://youtube.com/Brashokish">   
-    <img src="https://telegra.ph/file/a2404cf4912a775f17164.jpg" width="500" height="500"/>
+   
 </p>
 </br>
 </br>
