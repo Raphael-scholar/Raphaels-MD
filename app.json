@@ -1,0 +1,25 @@
+{
+    "name": "Raphael-MD",
+    "description": "A WhatsApp bot based on Baileysjs with Multi-Device support",
+    "repository": "https://github.com/Raphael-scholar/Raphaels-MD",
+    "logo": "https://tinyurl.com/2arwqhh3",
+    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      },
+      {
+        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      },
+      {
+        "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      }
+    ],
+     "formation": {
+          "worker": {
+              "quantity": 1,
+              "size": "basic"
+          }
+     }
+}
+￼Enter
