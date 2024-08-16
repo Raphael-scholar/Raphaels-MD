@@ -14,7 +14,7 @@
 
 ## Fork the repo
     
-<a href="https://github.com/Raphael-scholar/Raphaels-MD/fork"><img title="Kish-MD" src="https://img.shields.io/badge/FORK Kish MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Raphael-scholar/Raphaels-MD/fork"><img title="Raphael-MD" src="https://img.shields.io/badge/FORK Raphael MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 
