@@ -75,4 +75,10 @@
         "url": "https://github.com/Raphael-scholar/Raphaels-MD/issues"
     }
 }
-￼Enter
+{
+  "scripts": {
+    "start": "node index.js",
+    "build": "webpack --config webpack.config.js"
+  }
+}
+
