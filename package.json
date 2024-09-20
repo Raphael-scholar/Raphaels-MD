@@ -1,6 +1,6 @@
 {
     "name": "Raphael-MD",
-    "version": "3.0",
+    "version": "3.0.0",
     "description": "WhatsApp Bot Using Nodejs",
     "main": "index.js",
     "type": "commonjs",
@@ -11,7 +11,8 @@
         "media": "media"
     },
     "scripts": {
-        "start": "node index.js"
+        "start": "node index.js",
+        "build": "webpack --config webpack.config.js"
     },
     "author": "Raphael",
     "license": "MIT",
@@ -75,10 +76,3 @@
         "url": "https://github.com/Raphael-scholar/Raphaels-MD/issues"
     }
 }
-{
-  "scripts": {
-    "start": "node index.js",
-    "build": "webpack --config webpack.config.js"
-  }
-}
-
